@@ -1,0 +1,18 @@
+
+body{
+    background-color: cornflowerblue;
+    color: darkslateblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    text-decoration:underline;
+}
+form{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+       
+}
+input {
+    width: 250px;
+    height: 60px;
+}
