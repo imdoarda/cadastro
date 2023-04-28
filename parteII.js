@@ -8,5 +8,5 @@ function Verifica(){
         alert("Campos de preenchimento obrigatório. Favor preencher.");
      }else{
       window.open("confirma.html", "_self")
-  };
-};
+  }
+}
