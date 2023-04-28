@@ -1,0 +1,25 @@
+
+body{
+    background-image:url("https://w.forfun.com/fetch/71/713146d2fa668b30af68cd5fc578ba0a.jpeg");
+    color: beige;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-decoration:underline;
+}
+#confirmacao{
+    color:beige;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    text-decoration:underline;
+}
+form{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+       
+}
+input {
+    width: 250px;
+    height: 60px;
+}
