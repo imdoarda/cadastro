@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body{
     background-image:url("https://w.forfun.com/fetch/71/713146d2fa668b30af68cd5fc578ba0a.jpeg");
@@ -23,3 +24,23 @@ input {
     width: 250px;
     height: 60px;
 }
+=======
+
+body{
+    background-color: cornflowerblue;
+    color: darkslateblue;
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    text-decoration:underline;
+}
+form{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+       
+}
+input {
+    width: 250px;
+    height: 60px;
+}
+>>>>>>> 8df17469ea8be1883d92959ac7d76e2410260ff5
