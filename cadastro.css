@@ -1,29 +1,49 @@
-body{
-    color: black;
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bolder;
     text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 30px;
-    text-decoration:underline;
+    color:#205843;
+    letter-spacing: 6px;
+
 }
-#confirmacao{
-    color:black;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 70px;
-    text-decoration:underline;
-}
-input {
-    width: 250px;
-    height: 60px;
+H4{
+    font-weight: bolder;
+    font-size: 40px;
 }
 body{
-    color: black;
-    text-align: center;
-    font-family: monospace;
-    font-size: 30px;
-    text-decoration:underline;
+    background-color: #A9B69C;
 }
-input {
-    width: 250px;
-    height: 60px;
+form{
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+}
+input{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 17px;
+    padding: 5px 10px;
+    outline: none;
+}
+#loginData{
+  display: flex;
+  align-items: center;
+  display: inline-block;
+  width: 245px;
+}
+button{
+    background-color:#205843;
+    padding: 15px 18px;
+    border-radius: 15px;
+    border:none;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    font-weight: bold;
+    transition: all ease 0.3s;
+}
+button:hover{
+    background-color: black;
+    color:white;
 }
