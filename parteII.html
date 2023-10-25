@@ -5,12 +5,14 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Continuação Cadastro</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='cadastro.css'>
-    <script src='parteII.js'></script>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
 </head>
 <body>
-    	<h3> Seu endereço </h3>
-            <input type="cep" id="enderecoCEP" placeholder="Digite o CEP da sua rua"/>
+    <div class="container">
+    	<h3> Endereço </h3>
+           <form>
+
+            <input type="cep" id="cep" placeholder="Digite o CEP da sua rua"/>
             <br>
             <input type="city" id="enderecoCidade" placeholder="Digite sua cidade"/>
             <br>
@@ -26,6 +28,12 @@
             <br>
             <input type="reference" id="enderecoReference" placeholder="Digite um local de referência"/>
             <br>
+            <br>
             <button type="button" onclick="Verifica()">ACESSAR</button>
+
+           </form>       
+            <script src='parteII.js'></script>
+    </div>
+    
 </body>
 </html>
