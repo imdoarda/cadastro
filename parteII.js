@@ -2,11 +2,12 @@ function Verifica(){
     let cep = document.getElementById('enderecoCEP').value;
     let rua = document.getElementById('nomeRua').value;
     let number = document.getElementById('enderecoNumber').value;
+    let bairro = document.getElementById('nomeBairro').value;
     let reference = document.getElementById('enderecoReference').value;
     let city = document.getElementById('enderecoCidade').value;
     let state = document.getElementById('enderecoEstado').value;
 
-    if(!cep || !rua || !number || !reference || !city || !state){
+    if(!cep || !rua || !number || !bairro || !reference || !city || !state){
         alert("Campos de preenchimento obrigatório. Favor preencher.");
      }else{
       window.open("confirma.html", "_self")
@@ -14,10 +15,10 @@ function Verifica(){
 }
 //Preenche os campos relacionados ao CEP...
 const preencherForumulario = (endereco) =>{
-    document.getElementById('rua').value = endereco.logradouro;
-    document.getElementById('bairro').value = endereco.bairro;
-    document.getElementById('cidade').value = endereco.localidade;
-    document.getElementById('estado').value = endereco.uf;
+    document.getElementById('nomeRua').value = endereco.logradouro;
+    document.getElementById('nomeBairro').value = endereco.bairro;
+    document.getElementById('enderecoCidade').value = endereco.localidade;
+    document.getElementById('enderecoEstado').value = endereco.uf;
 }
 //
 
@@ -51,3 +52,4 @@ const pesquisarCep = async() => {
         alert('CEP incorreto!');
     } 
 }
+document.getElementById('cep').addEventListener('focusout', pesquisarCep);
