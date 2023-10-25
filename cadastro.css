@@ -1,37 +1,27 @@
 body{
-    color: beige;
+    color: black;
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     text-decoration:underline;
 }
 #confirmacao{
-    color:beige;
+    color:black;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 70px;
     text-decoration:underline;
-}
-form{
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
-       
 }
 input {
     width: 250px;
     height: 60px;
 }
 body{
-    color: beige;
+    color: black;
     text-align: center;
     font-family: monospace;
     font-size: 30px;
     text-decoration:underline;
-}
-form{
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
-       
 }
 input {
     width: 250px;
