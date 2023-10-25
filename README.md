@@ -12,7 +12,9 @@
 ## Formulário de endereço
 
 ### TELA INICIAL
-![image](https://github.com/imdoarda/form-CadEndereco/assets/127868962/3148a2f5-e269-4831-ab38-0d56f81c7fd7)
+
+![image](https://github.com/imdoarda/cadastro/assets/127868962/2ecdf155-5cb0-4060-964c-5e5d5fc98ceb)
+
 
 
 ## Descrição
@@ -108,16 +110,17 @@ Essa função é para checar se o tamanho do CEP está correto e se é apenas n�
       }  
 
       
-  Já essa última função é um pouco mais complexa, "async()" faz com que não precise ser seguida uma ordem exata e, como escrito nos comentários, é uma função para o consumo de API da Via CEO, ou seja, o código vai "checar" com a Via CEP se o CEP inserido é realmente válido. Caso o CEP não seja válido, o site retornará uma mensagem de "CEP não encontado" senão, os campos de endereço são preenchidos automaticamente, como mostrado acima.  
+  Já essa última função é um pouco mais complexa, "async()" faz com que não precise ser seguida uma ordem exata e, como escrito nos comentários, é uma função para o consumo de API da Via CEP, ou seja, o código vai "checar" com a Via CEP se o CEP inserido é realmente válido. Caso o CEP não seja válido, o site retornará uma mensagem de "CEP não encontado" senão, os campos de endereço são preenchidos automaticamente, como mostrado acima.  
 
   ``Veja o resultado a seguir:``
 
-  ![tela3](https://github.com/imdoarda/form-CadEndereco/assets/127868962/11f5abe2-c767-46c1-839d-f16ec804c4af)  
+ ![cadvideo](https://github.com/imdoarda/cadastro/assets/127868962/451c56a5-4de5-45a7-a512-6b73647abca0)
+  
 
 
 ### Tecnologias utilizadas
 
-
+* ``HTML5``  
 * ``CSS3``
 * ``VSCODE``
 *  ``GitHub``
