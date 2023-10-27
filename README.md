@@ -23,7 +23,7 @@ O formulário de cadastro serve para realizar o cadastro de alguém em um site u
     
 ## Introdução
 
- Neste projeto, inicialmente tinha o intuito de aprimorar as habilidades dos alunos construindo uma tela de cadastro usando propriedades básicas de JavaScript, depois, em uma atividadeproposta em sala de aula, foi pedido a implementação da consulta de endereço utilizando Via CEP.
+ Neste projeto, inicialmente tinha o intuito de aprimorar as habilidades dos alunos construindo uma tela de cadastro usando propriedades básicas de JavaScript, depois, em uma atividade proposta em sala de aula, foi pedido a implementação da consulta de endereço utilizando Via CEP.
 
 ## Funcionalidades
 
