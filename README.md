@@ -48,7 +48,8 @@ Possuí funcionalidade inicial de ajudar os alunos a aprofundarem o conhecimento
 
    ``Veja o resultado a seguir:``
 
-   ![gravacao2](https://github.com/imdoarda/cadastro/assets/127868962/ca06d2c0-fe7c-478d-867a-9b221950fbdf)
+   ![gravacao2 (1)](https://github.com/imdoarda/cadastro/assets/127868962/c3febe5a-28aa-42e5-9fe0-0848e8f41822)
+
 
 
  
