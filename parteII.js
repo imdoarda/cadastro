@@ -35,7 +35,7 @@ const pesquisarCep = async() => {
 
 document.getElementById('cep').addEventListener('focusout', pesquisarCep);
 
-function Verifica(){
+ function Verifica(){
     let cep = document.getElementById('cep').value;
     let rua = document.getElementById('nomeRua').value;
     let number = document.getElementById('enderecoNumber').value;

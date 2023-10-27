@@ -16,7 +16,5 @@ function Verifica(){
     }else{
         window.open("parteII.html", "_self")
     }
-}
-
-
+ }
 
