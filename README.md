@@ -48,7 +48,8 @@ Possuí funcionalidade inicial de ajudar os alunos a aprofundarem o conhecimento
 
    ``Veja o resultado a seguir:``
 
-   ![gravacao2 (1)](https://github.com/imdoarda/cadastro/assets/127868962/c3febe5a-28aa-42e5-9fe0-0848e8f41822)
+   ![gravacao2 (2)](https://github.com/imdoarda/cadastro/assets/127868962/63cc1eb9-cfba-49e7-827d-c81b45a8551c)
+
 
 
 
@@ -96,7 +97,8 @@ Essa função é para checar se o tamanho do CEP está correto e se é apenas n�
 
   ``Veja o resultado a seguir:``
 
- ![cadvideo](https://github.com/imdoarda/cadastro/assets/127868962/451c56a5-4de5-45a7-a512-6b73647abca0)
+ ![cadvideo (1)](https://github.com/imdoarda/cadastro/assets/127868962/d22ac9f0-efc1-427f-a6a4-ad98444406e8)
+
   
 
 
