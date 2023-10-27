@@ -19,16 +19,15 @@
 
 ## Descrição
 
-O formulário de endereço serve para realizar o cadastro de um certo endereço e, quando inserido o CEP, campos como "rua", "bairro", "cidade" e "estado" são preenchidos automaticamente.
-
+O formulário de cadastro serve para realizar o cadastro de alguém em um site utilizando diversos dados pessoais como: nome, data de nascimento, email, endereço, etc.
     
 ## Introdução
 
- Neste projeto aprendemos a utilizar Arrow Function fazendo um formulário de endereço.  No formulário, quando se digita o CEP de alguma rua, acontece o preenchimento automático de outros campos de endereço. Para que isso acontecesse, utilizei várias funções do tipo Arrow.
+ Neste projeto, inicialmente tinha o intuito de aprimorar as habilidades dos alunos construindo uma tela de cadastro usando propriedades básicas de JavaScript, depois, em uma atividadeproposta em sala de aula, foi pedido a implementação da consulta de endereço utilizando Via CEP.
 
 ## Funcionalidades
 
-Possuí funcionalidade inicial de ajudar os alunos a aprofundarem o conhecimento em Arrow Function.
+Possuí funcionalidade inicial de aprimorar o conhecimento dos alunos no uso do Via CEP para realizar consultas de endereço.
 
 
   
@@ -128,8 +127,6 @@ Essa função é para checar se o tamanho do CEP está correto e se é apenas n�
 ## Fontes Consultadas
 
 [Via CEP]( https://viacep.com.br/) - Consulte CEPs de todo o Brasil
-
-[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
 [Alura](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar) - Async/await no JavaScript: o que é e quando usar a programação assíncrona?
 
